@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "327486698601",
+    "firebase_url": "https://data-base-269ba-default-rtdb.firebaseio.com",
+    "project_id": "data-base-269ba",
+    "storage_bucket": "data-base-269ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327486698601:android:df4c2db7652507637a1ef8",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7dko-4seJ0GWjAPLOV6P_gGmHrso9VqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327486698601:android:b6d5b776636376f27a1ef8",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7dko-4seJ0GWjAPLOV6P_gGmHrso9VqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="forest_green">#006400</color>
+    <color name="grey">#808080</color>
+    <color name="dark_purple">#9C27B0</color>
+    <color name="yellow">#FFFF00</color>
+    <!-- Category Colors -->
+    <color name="category_study">#4CAF50</color>  <!-- Green -->
+    <color name="category_work">#2196F3</color>   <!-- Blue -->
+    <color name="category_home">#FF9800</color>    <!-- Orange -->
+    <color name="category_dance">#9C27B0</color>   <!-- Purple -->
+    <color name="category_default">#607D8B</color>  <!-- Gray-Blue -->
+
+    <!-- Pressed States (20% darker than base colors) -->
+    <color name="category_study_pressed">#3D8B40</color>
+    <color name="category_work_pressed">#1976D2</color>
+    <color name="category_home_pressed">#F57C00</color>
+    <color name="category_dance_pressed">#7B1FA2</color>
+    <color name="category_default_pressed">#455A64</color>
+</resources>
